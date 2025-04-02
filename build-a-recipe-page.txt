@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+  <meta charset="UTF-8">
+  <title>CHILAQUILES</title> 
+</head>
+<body>
+  <h1>CHILAQUILES</h1>
+
+  <p>A delicious and spicy Mexican breakfast dish.</p>
+
+  <h2> Ingredients</h2>
+  <ul>
+  <li>4 corn tortillas, cut into triangles</li>
+  <li>1 cup of green or red salsa</li>
+  <li>1/2 cup of shredded chicken (optional)</li>
+  <li>1/4 cup of sour cream</li>
+  </ul>
+  <h2>Instructions</h2>
+<ol>
+  <li>Heat oil in a pan and fry the tortilla pieces until crispy.</li>
+  <li>In a separate pan, heat the salsa until it simmers.</li>
+  <li>Add the fried tortilla pieces to the salsa and stir until well-coated.</li>
+  <li>Top with shredded chicken, sour cream, cheese, and a fried egg (optional).</li>
+  <li>Garnish with chopped onions, avocado, and cilantro.</li>
+  <li>Serve and enjoy your delicious Chilaquiles!</li>
+</ol>
+
+
+
+<img src="https://cdn.milenio.com/uploads/media/2019/08/22/los-chilaquiles-se-pueden-preparar.jpg" width="300" heigth="200" alt="Description of the image">
+
+
+
+
+</body>
+</html>
+
